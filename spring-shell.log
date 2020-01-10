@@ -1,0 +1,133 @@
+1578520840038:add
+1578520847604:add 1 2
+1578520997080:add
+1578521006142:add 1 2
+1578522026851:add 1 1
+1578522129808:add 11 11
+1578522171981:add 1 1
+1578522445299:add 11 1
+1578522515718:add 1 1
+1578526156214:add
+1578578169552:help
+1578578172175:add
+1578585140370:get
+1578585952520:add
+1578585954105:get
+1578586006097:add
+1578586007359:get
+1578587925318:add
+1578587942094:get
+1578595851675:add
+1578595854649:get
+1578606285547:filldb
+1578609439686:show_departments
+1578609984012:filldb
+1578609991231:show_departments
+1578610104601:filldb
+1578610108361:show_departments
+1578610450281:filldb
+1578610453153:show_departments
+1578610535891:filldb
+1578610539435:show_departments
+1578611776691:help
+1578611781508:filldb
+1578611785993:show_departments
+1578611894087:filldb
+1578612214766:help
+1578612241883:filldb
+1578612249361:show_t
+1578612253167:show_departments
+1578612785418:filldb
+1578612846798:show_departments
+1578614100676:help
+1578614720278:show_departments
+1578615813093:show_all_employees
+1578616319999:help
+1578616345969:show-all-employees
+1578616352449:show_all_departments
+1578617008978:help
+1578617024608:show-all-department-employees
+1578617248214:help
+1578617260870:show-all-department-employees
+1578617382293:help
+1578617396947:show-all-employees
+1578617408023:show-all-department-employees
+1578618366779:help
+1578618383309:show=all-department-employees
+1578618395871:show-all-department-employyes
+1578618410472:show-all-department-employees
+1578618680584:help
+1578618691042:show-all-department-employees
+1578621251573:sho-all-department-employees
+1578621260193:help
+1578621270925:show-all-department-employees
+1578625401403:show
+1578629255888:help
+1578629299141:Who is head of department Music Academy
+1578629607926:help
+1578629748882:Who is head of department asdas
+1578630013283:Who is head of department Music Academy
+1578630234013:Who Music Academy
+1578630279039:stacktrace
+1578630336776:Who
+1578630571645:greet g
+1578630576226:greet d ed
+1578630665142:greet "asdasda asdasdads"
+1578631000736:help
+1578631026683:Who is head of department "usic Academy"
+1578631050259:stacktrace
+1578631161812:Who is head of department "Music Academy"
+1578631196148:stacktrace
+1578631360277:Who is head of department "Music Academy"
+1578631797785:Who is head of department Academy
+1578631894268:find academy
+1578631898940:find Academy
+1578632481492:Who is head of department "Music Academy"
+1578632603139:Who is head of Department "usic Academy"
+1578632616256:Who is head of department "Music Academy"
+1578632643984:help
+1578634456727:f "Music Academy"
+1578634925106:f sdf
+1578635073949:f df
+1578635261413:f sdf
+1578635650572:f
+1578635656162:f dfg
+1578635669261:f "Music Academy"
+1578635829183:f sdf
+1578636067846:f sefsdf
+1578636285431:f lklklk
+1578636341886:f sdf
+1578636513666:f g
+1578636814190:f df
+1578636974441:f
+1578636978071:f f
+1578637116395:f sdf
+1578637130163:f "Music Academy"
+1578637823129:Show statistic for department "usic Academy"
+1578637855275:Show statistic for department "Music Academy"
+1578638605281:Show the average salary for department "Music Academy"
+1578639099807:help
+1578639120593:Show count of employees for "usic Academy"
+1578639160583:Show count of employees for "Music Academy"
+1578639294326:help
+1578639308208:Show count of employees for "usic Academy"
+1578639320594:Show count of employees for "Music Academy"
+1578639374424:help
+1578639388578:Show statistic for department "Music Academy"
+1578639430240:Show the average salary for department "Music Academy"
+1578641257281:search f
+1578641268488:search a
+1578641312879:searchsd
+1578641315989:search
+1578641325206:search fg
+1578641340760:search ma
+1578641467651:help
+1578641479608:search Li
+1578641754596:search m
+1578641855161:search f
+1578642030804:rch f
+1578642035356:search m
+1578642158629:search h
+1578642164033:search 5
+1578642178211:search ass
+1578642189317:search ASS
